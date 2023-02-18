@@ -1,0 +1,15 @@
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\bin\Debug\net7.0\C-sharp.Exercises (3).exe
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\bin\Debug\net7.0\C-sharp.Exercises (3).deps.json
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\bin\Debug\net7.0\C-sharp.Exercises (3).runtimeconfig.json
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\bin\Debug\net7.0\C-sharp.Exercises (3).dll
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\bin\Debug\net7.0\C-sharp.Exercises (3).pdb
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\obj\Debug\net7.0\C-sharp.Exercises (3).csproj.AssemblyReference.cache
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\obj\Debug\net7.0\C-sharp.Exercises (3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\obj\Debug\net7.0\C-sharp.Exercises (3).AssemblyInfoInputs.cache
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\obj\Debug\net7.0\C-sharp.Exercises (3).AssemblyInfo.cs
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\obj\Debug\net7.0\C-sharp.Exercises (3).csproj.CoreCompileInputs.cache
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\obj\Debug\net7.0\C-sharp.Exercises (3).dll
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\obj\Debug\net7.0\refint\C-sharp.Exercises (3).dll
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\obj\Debug\net7.0\C-sharp.Exercises (3).pdb
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\obj\Debug\net7.0\C-sharp.Exercises (3).genruntimeconfig.cache
+C:\Users\EM-PC\source\repos\C-sharp.Exercises (3)\obj\Debug\net7.0\ref\C-sharp.Exercises (3).dll
